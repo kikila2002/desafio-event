@@ -1,0 +1,34 @@
+.encabezado{
+    background-color: bisque;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+body {
+    background-color: darkgray;
+} 
+
+#listaDeProductos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-padre {
+    
+    height: 200px;
+    width: 200px;
+    border: solid 3px black;
+    border-radius: 20px;
+    background-color: bisque;
+    margin: 15px;
+}
+h3 {
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+}
